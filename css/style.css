@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    color: #333;
+    font-size: 12pt;
+    background: -webkit-gradient(linear, center bottom, center top, from(#eee),to(#fff));
+    text-align: center;
+}
+
+body > div {
+    width: 280px;
+    height: 280px;
+}
+
+#loader {
+    width: 280px;
+    height: 280px;
+}
+
+#qrcode {
+    width: 280px;
+    height: 280px;
+}
+
+img { 
+    border: none;
+}
+
+loader {
+    top: 50px;
+    left: 50px;
+}
